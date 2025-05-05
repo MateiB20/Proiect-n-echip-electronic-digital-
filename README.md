@@ -1,6 +1,4 @@
-FACULTATEA DE AUTOMATICĂ ȘI CALCULATOARE
-Temă:  COUNTER – REGISTRU PARALEL
-Coordonator: Asist. Drd. Marius Obreja
+COUNTER – REGISTRU PARALEL
 
 
 I. Specificații proiect: 
